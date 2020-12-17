@@ -1,2 +1,2 @@
-# UFO_Sightings_EDA
+# UFO Sightings EDA
 Exploratory Data Analysis of UFO Sightings
